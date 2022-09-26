@@ -7,7 +7,7 @@ requirements.txt
 CUDA를 이용한 학습을 위해서는 아래 명령어 입력 필요(Window, Anaconda 기준)
 conda install pytorch torchvision cudatoolkit=11.6 -c pytorch -c conda-forge  
 
-![dir_paht](./Cap 2022-09-26 09-26-54-703.png)
+![dir_paht](https://github.com/Jeong-Daniel/Assignment_Test/blob/main/Cap%202022-09-26%2009-26-54-703.png)
 데이터와 노트북은 같은 폴더에 넣었습니다.
 
 **[Question]**
